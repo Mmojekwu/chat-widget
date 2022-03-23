@@ -8,6 +8,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Typescript
 - Tailwind css
 
+## IFRAME
+
+- `<iframe width="890" height="700" src="https://chat-widget2.netlify.app/" frameBorder="0" allowFullScreen></iframe>`
+
 
 ## Available Scripts
 
