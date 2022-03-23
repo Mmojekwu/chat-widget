@@ -1,8 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './input.css';
-import './chat.css';
-
+import './assets/css/input.css';
+import './assets/css/chat.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
