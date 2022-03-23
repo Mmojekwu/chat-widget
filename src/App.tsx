@@ -59,6 +59,7 @@ function App() {
         {
           type: "options",
           option: ["View Recipes", "Meal Plan", "Buy Products", "Get Help", "FAQs"],
+          text:"",
           time: prnDt,
         },
       ]);

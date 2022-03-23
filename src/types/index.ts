@@ -6,4 +6,4 @@ export type buttonClickedType = {
   option5: Boolean;
 };
 
-export type textType = string | JSX.Element | undefined;
+export type textType = string | JSX.Element;

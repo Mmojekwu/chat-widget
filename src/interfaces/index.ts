@@ -2,7 +2,7 @@ import { buttonClickedType, textType } from "../types";
 
 export interface ChatInterface {
   type: string;
-  text?: string | JSX.Element;
+  text: string | JSX.Element;
   time: string;
   option?: string[];
 }
